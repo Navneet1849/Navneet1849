@@ -1,7 +1,6 @@
 - 👋 Hi, I’m navneet anand
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS projects
 - 📫 How to reach me 9513311443
 
 <!---
